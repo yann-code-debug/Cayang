@@ -1,0 +1,3 @@
+Taruh file lagu kamu di folder ini dengan nama: music.mp3
+(atau ganti nama file di config/content.php bagian 'music').
+Tombol musik akan muncul otomatis begitu file-nya ada.
